@@ -169,7 +169,7 @@
     "license": "MIT",
     "packageManager": "yarn@3.2.0",
     "resolutions": {
-        "@revoltchat/ui": "portal:external/components",
-        "revolt.js": "portal:external/revolt.js"
+        "@revoltchat/ui": "https://github.com/revoltchat/components",
+        "revolt.js": "https://github.com/revoltchat/revolt.js.git"
     }
 }
